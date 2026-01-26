@@ -21,5 +21,5 @@
 - Alex Nabours
 ## Resources
 ### Coding
-- WPILib `Java/C++ Code IDE - VS Code Build for FRC` https://github.com/wpilibsuite/
-- Free CodeCamp `Great Place to Start Learning Java` https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/
+- [WPILib](https://github.com/wpilibsuite/) `Java/C++ Code IDE - VS Code Build for FRC`
+- [Free CodeCamp](https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/) `Great Place to Start Learning Java`
