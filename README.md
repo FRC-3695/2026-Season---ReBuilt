@@ -19,3 +19,6 @@
 - Eric McKeever
 ### Student Mentor(s)
 - Alex Nabours
+## Resources
+### Coding
+- WPILib `Java/C++ Code IDE - VS Code Build for FRC` https://github.com/wpilibsuite/
