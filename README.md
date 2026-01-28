@@ -10,7 +10,7 @@
 ### Student(s)
 - Ian McKeever
 - Kathryn Nabours
-- Chase
+- Chase Stolpestad [@pazza2234](https://github.com/pazza2234)
 ### Mentor(s)
 - Caroline Pickett [@un-creatrix](https://github.com/un-creatrix)
 - Leon Pierce
