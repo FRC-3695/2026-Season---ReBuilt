@@ -9,15 +9,17 @@
 ## Contributors
 ### Student(s)
 - Ian McKeever
+- Tyler
 - Kathryn Nabours
 - Chase Stolpestad [@pazza2234](https://github.com/pazza2234)
+- Joseph Martin [@MrCoderHat](https://github.com/MrCoderHat)
 ### Mentor(s)
 - Caroline Pickett [@un-creatrix](https://github.com/un-creatrix)
 - Leon Pierce
 - Brian Erjavec
 ### Parent Mentor(s)
 - Eric McKeever
-### Student Mentor(s)
+### Student/Alumni Mentor(s)
 - Alex Nabours
 ## Resources
 ### Coding
